@@ -1,4 +1,5 @@
 ###    ""declarando objetos""" 
+## Repositorio en GITHUB##
 ##### CADENA DE NUMEROS QUE REPRENTAN LOS 
 #####  INGRESOS "X"      Y,       GASTOS  "Y"
 ingresos=c(6,8,10,12,14,16,18,20);
