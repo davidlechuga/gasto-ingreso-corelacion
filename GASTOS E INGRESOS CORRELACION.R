@@ -1,6 +1,6 @@
 ###    ""declarando objetos""" 
 ## Repositorio en GITHUB##
-## el codig se ha revizado por la CGyE ####
+## el codigo se ha revisado por la CGyE ####
 ##### CADENA DE NUMEROS QUE REPRENTAN LOS 
 #####  INGRESOS "X"      Y,       GASTOS  "Y"
 ingresos=c(6,8,10,12,14,16,18,20);
