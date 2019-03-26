@@ -1,6 +1,3 @@
-###
-##
-#
 ##LECHUGA HUERTA DAVID ####
 ###    ""declarando objetos"" 
 ## Repositorio en GITHUB##
