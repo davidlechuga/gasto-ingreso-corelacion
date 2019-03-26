@@ -1,5 +1,8 @@
+###
+##
+#
 ##LECHUGA HUERTA DAVID ####
-###    ""declarando objetos""" 
+###    ""declarando objetos"" 
 ## Repositorio en GITHUB##
 ## el codigo se ha revisado por la CGyE ####
 ##### CADENA DE NUMEROS QUE REPRENTAN LOS 
